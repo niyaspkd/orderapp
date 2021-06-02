@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 Run python manage.py load_data filenameofproducts filenameofcustomers
 £no extension needed
 python manage.py makemigrations 
